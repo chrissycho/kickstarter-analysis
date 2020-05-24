@@ -1,5 +1,5 @@
 # Module 1: An Analysis of Kickstarter Campaigns
-Performing analysis on 
+Performing analysis on Kickstarter Campaigns.
 
 ### Challenge
 ![](Images/Outcome_of_Plays_Based_on_Goals.png)
