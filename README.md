@@ -2,8 +2,9 @@
 Performing analysis on Kickstarter Campaigns.
 
 ### Challenge
+#### A. Outcomes of Plays Based on Goals
 ![](Images/Outcome_of_Plays_Based_on_Goals.png)
-#### Outcomes of Theaters Based on Launch Date
+#### B. Outcomes of Theaters Based on Launch Date
 ![Outcomes of Theaters Based on Launch Date](Images/Outcomes_Based_on_Launch_Date.png)
 
 
